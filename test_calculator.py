@@ -6,7 +6,6 @@ import unittest
 from calculator import *
 import math
 
-
 class TestCalculator(unittest.TestCase):
 
     def test_add(self):
@@ -69,7 +68,6 @@ class TestCalculator(unittest.TestCase):
         self.assertAlmostEqual(calculator.square_root(5),math.sqrt(5))
         with self.assertRaises(ValueError):
             calculator.square_root(-9)
-
 
 # Do not touch this
 if __name__ == "__main__":
