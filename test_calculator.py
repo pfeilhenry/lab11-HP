@@ -1,3 +1,7 @@
+# https://github.com/pfeilhenry/lab11-HP
+# Partner 1: Henry Pfeil
+# Partner 2: Did not have partner
+
 import unittest
 from calculator import *
 import math
