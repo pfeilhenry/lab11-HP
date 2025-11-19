@@ -3,7 +3,7 @@
 # Partner 2: Did not have partner
 
 import unittest
-from calculator import *
+import calculator
 import math
 
 class TestCalculator(unittest.TestCase):

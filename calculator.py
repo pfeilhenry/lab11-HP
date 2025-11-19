@@ -1,12 +1,14 @@
+# https://github.com/pfeilhenry/lab11-HP
+# Partner 1: Henry Pfeil
+# Partner 2: Did not have partner
+
 """
 calculator.py
 - Defines functions used to create a simple calculator
 
 One function per operation, in order.
 """
-# https://github.com/pfeilhenry/lab11-HP
-# Partner 1: Henry Pfeil
-# Partner 2: Did not have partner
+
 
 import math
 
