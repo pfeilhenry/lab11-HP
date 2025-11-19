@@ -10,7 +10,6 @@ One function per operation, in order.
 
 import math
 
-
 def square_root(a):
     if a < 0:
         raise ValueError("square_root is undefined for negative numbers.")
@@ -27,7 +26,6 @@ def subtract(a,b):
 
 def mul(a,b):
     return a*b
-
 
 def div(a,b):
     if a==0:
